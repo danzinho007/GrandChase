@@ -1,0 +1,54 @@
+* = Resistência a Contaminação ( Harrier )
+
+Elmo :
+Defesa : 
+152 = PreguiçosaMolly (85) TemploTempo
+151L = Astaroth (?)
+146 = Zekars (85)*
+143 = CavaleiroFerro (85)*
+137 = Espírito(80) CercoTeroka
+135 = LíderEsquadrão(85)*
+130 = MáquinaCombate(75) Tunel
+      Escaravelho (78) Deserto
+      LíderNativos (85)*
+      NagaHarrier (85)*
+108 = DKMarkI(64) AltarDestruição
+099 = LutadorAss(58) ValePenumbra
+084 = MiniGolem(50) RuínasKastule
+070 = MagoNegro(40) CasteloKamiki
+061 = Lanceiro(36) FortalezaVictor
+051 = EspíritoNévio(30) LagoCrepúsculo
+046 = GuerreiroEsqueleto (26) RuínasPrata
+032 = GosmaVerde(16) PântanoEsquecido
+025 = Gorgos(10) CalabouçoGorgos
+008 = GoblinPedra(2) ArredoresSerdin
+
+Vitalidade 
+151 = Xênia x1
+141 = Império x1
+141 = Mjonir x1
+137 = LagartoGuerreiro(83) Berkas
+125 = PlantaCarnívora(85)* !!!
+119 = LarvaHarrier(85)* !!!
+113 = Gagoil(68) TemploSintonia !!!
+
+Cota e Capa :
+Ataque 440 = Ruínas
+MP Rec 6.37 = Império
+       6.02 = Ev Gosma ou Túnel
+Vital 151 = Fronteira
+
+Arma e Luva :
+Acc Crít 2.76 = Áton
+  	 2.70 = Berkas
+DanoCrít 26.39 = Berkas
+Ataque 455 = Império
+       425 = Arquimídia
+       410 = Karuel
+
+Capa e Sapato :
+Defesa 130 = Passagem
+       127 = Base
+MP Rec 5.74 = Karuel
+Atq Esp 714 = Ev Gosma ou Pirâmide
+        672 = Mjonir
