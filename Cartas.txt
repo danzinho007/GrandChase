@@ -1,3 +1,55 @@
+Cartas :
+
+AmonNegro = !!!
+AnciãoKungji = !!!
+Aron = !!!
+ÁrvoreDivina = !!!
+Astaroth = !!!
+BandidoBárbaro = !!!
+BarakhufuImortal = !!!
+CaixaAmaldiçoada = !!!
+Caxias = !!!
+CobradorFantasma = !!!
+Demoníaco = !!!
+DeusAstaroth = !!!
+DeusLuz = !!!
+Drall = !!!
+DragonDeserto = !!!
+Duel = !!!
+EscaravelhoDeserto = !!!
+Fornalha301 = !!!
+Fornalha301
+Gagoli = !!!
+GoblinCiclope = !!!
+GolemGigante = !!!
+GolemMístico = !!!
+GuardaAmon = !!!
+GuardaElite = !!!
+Guardião = !!!
+Gumiho = !!!
+Hatsheput = !!!
+InfantariaAço = !!!
+LíderEsquadrão = !!!
+LotusDonaHotel = !!!
+ManoNegro = !!!
+Mensageiro = !!!
+MúmiaSeth = !!!
+Nemophilia = !!!
+NúcleoDemoníaco = !!!
+Paradom = !!!
+PatrulheiroAmon = !!!
+PilotoEncapuzado = !!!
+PrisioneiroFantasma = !!!
+ReiGosmaGuardião = !!!
+ReiGosmaJuiz = !!!
+ReiGosmaMensageiro = !!!
+Sataniel = !!!
+Setesh = !!!
+Texugo = !!!
+Vairne = !!!
+Venese = !!!
+ZéFumaça = !!!
+
 * = Resistência a Contaminação ( Harrier )
 
 Elmo :

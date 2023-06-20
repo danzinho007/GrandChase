@@ -1,0 +1,25 @@
+Visuais :
+
+-Lire = Natal
+-Elesis = Romano
+-Arme = Tigre
+-Sieg = Gladiador
+-Mari = Tigre
+
+-Dio = Leviatã
+-Rey = Sirius ( falta )
+-Lupus = Guarda Real
+-Azin = Frixion
+-Holy = !!!
+
+-Rey = Frixion
+-Edel = !!!
+-Veigas = !!!
+-Decanee = Frixion Temporário
+-Ryan = Tigre
+
+-Zero = !!!
+-Jin = Dolmen
+-Ronan = Natal
+-Lass = Tigre
+-Amy = Natal

@@ -1,0 +1,72 @@
+Títulos :
+
+1-Serdin
+2-Harpia
+3-Oak
+4-Gorgos
+5-Troll
+6-Drillmon
+7-Elizabeth
+8-Lich
+9-Paradon
+10-Gaicoz
+
+11-Ente Antigo
+12-Rainha Negra
+13-Krako
+14-Paprion
+15-Antoinette
+16-Verme Dragão
+17-Victor
+18-Patusei
+19-Kamiki
+20-Basilisco
+
+21-Gadosen
+22-Cazeaje
+23-Ciclope
+24-Golem Gigante
+25-Amon Negro
+26-Lenancien / Octus
+27-Deus da Luz
+28-Bultaros
+29-Zig
+30-Juniore
+
+31-Periett
+32-Árvore Divina
+33-Thanatos
+34-Campo dos Goblins
+35-Passagem Subterrânea
+36-Vila Kungji
+37-Deserto das Miragens
+38-Vida dos Bandidos Deserto
+39-Desfiladeiro Rá
+40-Pirâmide Seth
+
+41-Base Anões
+42-Túnel Anões
+43-Mjolnir
+44-Ruínas Reino Antigo
+45-Fronteira Karuel
+46-Karuel
+47-Império Astaroth
+48-Cerco Teroka
+49-Templo Tempo
+50-Fornalha
+
+51-Altar
+52-Berkas
+53-Circo
+54-Expresso
+55-Rebelião Mascotes
+56-Vilarejo Assombrado
+57-Rainha Gorgos
+58-Fantasmas da Memória 
+59-Fantasmas da Memória 
+60-Trono das Deusas
+
+61-Hakyon
+62-Hakyon
+63-Torre Extinção
++ 12 Harrier = 75
