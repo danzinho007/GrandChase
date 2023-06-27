@@ -93,10 +93,27 @@ Vital 151 = Fronteira
 Arma e Luva :
 Acc Crít 2.76 = Áton
   	 2.70 = Berkas
-DanoCrít 26.39 = Berkas
-Ataque 455 = Império
-       425 = Arquimídia
-       410 = Karuel
+DanoCrít :
+Túnel Anões = Escavador(C) +22.62%
+Desfiladeiro Rá = Karte(E) 24.07%
+Império Astaroth = MestreFeiticeiro(E) 24.07%
+Fronteira Karuel = Daliah(E) 25.81%
+Berkas = Berkas(E) 26.39%
+
+Ataque :
+Torre Sombria = Wendy +35
+Calabouço Gorgos = Gorgos +75
+Cidade Abandonada = Paramini +100
+Ruínas Prata = Rainha +155
+Ilha Selvagem = Mosquito +160
+Fortaleza Victor = Escudeiro +160
+Templo de Fogo = Monban +200
+Catacumbas Kastulle = Ciclope +280
+Fim Vermécia = Lorde Oak +280
+Templo Luz = Deus +320
+Altar Harmonia = Kenkro 310
+Templo Sintonia = Tempestado +350
+Vila Kungji = Xamã +360
 
 Capa e Sapato :
 Defesa 130 = Passagem

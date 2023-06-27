@@ -1,45 +1,57 @@
 Títulos :
 
-1-Serdin
-2-Harpia
-3-Oak
-4-Gorgos
-5-Troll
-6-Drillmon
-7-Elizabeth
-8-Lich
-9-Paradon
-10-Gaicoz
+Canaban > Serdin > Ellia > 
+Xênia 1 2 > Terra de Prata 1 2 3 > Xênia 1 >
+Terra de Prata 1 > Xênia 1 > Terra de Prata 1 >
+Xênia 1 > Áton > Arquimídia > Áton
 
-11-Ente Antigo
-12-Rainha Negra
-13-Krako
-14-Paprion
-15-Antoinette
-16-Verme Dragão
-17-Victor
-18-Patusei
-19-Kamiki
-20-Basilisco
+1-Serdin = 1
+2-Harpia = 2
+3-Oak = 3
+4-Gorgos = 4
+5-Troll = 5
+6-Drillmon = 6
 
-21-Gadosen
-22-Cazeaje
-23-Ciclope
-24-Golem Gigante
-25-Amon Negro
-26-Lenancien / Octus
-27-Deus da Luz
-28-Bultaros
-29-Zig
-30-Juniore
+7-Elizabeth = 7
+8-Lich = 8
+9-Paradon = 9
+10-Gaicoz = 10
+18-Patusei = 11
+19-Kamiki = 12
 
-31-Periett
-32-Árvore Divina
-33-Thanatos
-34-Campo dos Goblins
-35-Passagem Subterrânea
-36-Vila Kungji
-37-Deserto das Miragens
+20-Basilisco = 13
+21-Gadosen = 14
+22-Cazeaje = 15
+23-Ciclope = 16
+24-Golem Gigante = 17
+25-Amon Negro = 18
+
+26-Lenancien / Octus = 19
+27-Deus da Luz = 20
+28-Bultaros = 21
+11-Ente Antigo = 22
+12-Rainha Negra = 23
+13-Krako = 24
+
+29-Zig = 25
+14-Paprion = 26
+15-Antoinette = 27
+30-Juniore = 28
+16-Verme Dragão = 29
+-Altar da Destruição = 30
+
+17-Victor = 31
+-Árvore Divina = 32
+-Thanatos = 33
+-Campo dos Goblins = 34
+-Passagem Subterrânea = 35
+-Vila Kungji = 36
+
+37-Deserto das Miragens = 37
+
+18-Patusei = 11
+19-Kamiki = 12
+31-Periett = 29
 38-Vida dos Bandidos Deserto
 39-Desfiladeiro Rá
 40-Pirâmide Seth
