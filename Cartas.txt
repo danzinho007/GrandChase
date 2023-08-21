@@ -1,16 +1,90 @@
+Grand Chase Cartas :
+
+Floresta do Desafio = 1
+Torre Sombria = 2
+Arredores de Serdin = 3
+Praia Carry = 4
+Templo Oak = 5
+Calabouï¿½o do Gorgos = 6
+
+Depois de Tunel dos Anï¿½es = *
+
+L-Amon Negro = ???
+E-ï¿½rvore Divina = Floresta da Vida
+E-Astaroth = Impï¿½rio de Astaroth
+E-Barakufu Imortal = ???
+N-Bï¿½rbaro = ???
+
+N-Caixa Amaldiï¿½oada = ???
+*N-Caranguejo Monstruoso = 4 (OK)
+N-Ciclope = ???
+N-Cogumelo = 1 (OK)
+
+E-Deus da Luz = ???
+R-Dragï¿½o do Deserto = ???
+R-Duel = ???
+
+N-Encapuzado = ???
+R-Ente (Chefe) = 1 (OK)
+E-Escaralho do Deserto = ???
+
+N-Fazendeiro = ???
+R-Ferroviï¿½ria Fantasma = Evento Expresso 
+
+N-Gagoli = ???
+NC-Goblin = 1,2,3 (OK)
+N-Goblin de Pedra = 2,3, (OK)
+E-Golem Gigante = ???
+R-Golem Mï¿½stico = ???
+NC-Gon = 6 (OK)
+N-Gorgos = 6 (OK)
+-Gorgos Vermelho (Chefe) = 6 (OK)
+N-Gosma = 1,2 (OK)
+*NC-Gosma Azul = 4 (OK)
+-Gosma Vermelha = 6 (OK)
+N-Guarda Amon = ???
+N-Guarde de Elite = ???
+R-Guardiï¿½o = Evento Gosma
+R-Guerreiro Oak (Chefe) = 3 (OK)
+
+N-Harpia = 4 (OK)
+-Lorde Oak (Chefe) = 5 (OK)
+N-Mago Negro = ???
+N-Mï¿½mia de Seth = ???
+
+N-Oak = 3,5 (OK)
+NC-Oak de Pedra = 5 (OK)
+
+R-Paradom = ???
+N-Patrulheiro Amon = ???
+R-Rainha Harpia (Chefe) = 4 (OK)
+N-Rato Mutante = ???
+
+N-Sataniel = ???
+E-Setesh = ???
+N-Soldado Esgrimista = ???
+N-Soldado Lanceiro = ???
+
+N-Texugo = Nï¿½o tem 
+R-Venese = ???
+R-Wendy (Chefe)= 2 (OK)
+
+Torre Sombria :
+
+
 Cartas :
 
 AmonNegro = !!!
-AnciãoKungji = !!!
+Anciï¿½oKungji = !!!
 Aron = !!!
-ÁrvoreDivina = !!!
+ï¿½rvoreDivina = !!!
 Astaroth = !!!
-BandidoBárbaro = !!!
+BandidoBï¿½rbaro = !!!
 BarakhufuImortal = !!!
-CaixaAmaldiçoada = !!!
+CaixaAmaldiï¿½oada = !!!
 Caxias = !!!
 CobradorFantasma = !!!
-Demoníaco = !!!
+Demonï¿½aco = !!!
 DeusAstaroth = !!!
 DeusLuz = !!!
 Drall = !!!
@@ -22,25 +96,25 @@ Fornalha301
 Gagoli = !!!
 GoblinCiclope = !!!
 GolemGigante = !!!
-GolemMístico = !!!
+GolemMï¿½stico = !!!
 GuardaAmon = !!!
 GuardaElite = !!!
-Guardião = !!!
+Guardiï¿½o = !!!
 Gumiho = !!!
 Hatsheput = !!!
-InfantariaAço = !!!
-LíderEsquadrão = !!!
+InfantariaAï¿½o = !!!
+Lï¿½derEsquadrï¿½o = !!!
 LotusDonaHotel = !!!
 ManoNegro = !!!
 Mensageiro = !!!
-MúmiaSeth = !!!
+Mï¿½miaSeth = !!!
 Nemophilia = !!!
-NúcleoDemoníaco = !!!
+Nï¿½cleoDemonï¿½aco = !!!
 Paradom = !!!
 PatrulheiroAmon = !!!
 PilotoEncapuzado = !!!
 PrisioneiroFantasma = !!!
-ReiGosmaGuardião = !!!
+ReiGosmaGuardiï¿½o = !!!
 ReiGosmaJuiz = !!!
 ReiGosmaMensageiro = !!!
 Sataniel = !!!
@@ -48,76 +122,76 @@ Setesh = !!!
 Texugo = !!!
 Vairne = !!!
 Venese = !!!
-ZéFumaça = !!!
+Zï¿½Fumaï¿½a = !!!
 
-* = Resistência a Contaminação ( Harrier )
+* = Resistï¿½ncia a Contaminaï¿½ï¿½o ( Harrier )
 
 Elmo :
 Defesa : 
-152 = PreguiçosaMolly (85) TemploTempo
+152 = Preguiï¿½osaMolly (85) TemploTempo
 151L = Astaroth (?)
 146 = Zekars (85)*
 143 = CavaleiroFerro (85)*
-137 = Espírito(80) CercoTeroka
-135 = LíderEsquadrão(85)*
-130 = MáquinaCombate(75) Tunel
+137 = Espï¿½rito(80) CercoTeroka
+135 = Lï¿½derEsquadrï¿½o(85)*
+130 = Mï¿½quinaCombate(75) Tunel
       Escaravelho (78) Deserto
-      LíderNativos (85)*
+      Lï¿½derNativos (85)*
       NagaHarrier (85)*
-108 = DKMarkI(64) AltarDestruição
+108 = DKMarkI(64) AltarDestruiï¿½ï¿½o
 099 = LutadorAss(58) ValePenumbra
-084 = MiniGolem(50) RuínasKastule
+084 = MiniGolem(50) Ruï¿½nasKastule
 070 = MagoNegro(40) CasteloKamiki
 061 = Lanceiro(36) FortalezaVictor
-051 = EspíritoNévio(30) LagoCrepúsculo
-046 = GuerreiroEsqueleto (26) RuínasPrata
-032 = GosmaVerde(16) PântanoEsquecido
-025 = Gorgos(10) CalabouçoGorgos
+051 = Espï¿½ritoNï¿½vio(30) LagoCrepï¿½sculo
+046 = GuerreiroEsqueleto (26) Ruï¿½nasPrata
+032 = GosmaVerde(16) Pï¿½ntanoEsquecido
+025 = Gorgos(10) Calabouï¿½oGorgos
 008 = GoblinPedra(2) ArredoresSerdin
 
 Vitalidade 
-151 = Xênia x1
-141 = Império x1
+151 = Xï¿½nia x1
+141 = Impï¿½rio x1
 141 = Mjonir x1
 137 = LagartoGuerreiro(83) Berkas
-125 = PlantaCarnívora(85)* !!!
+125 = PlantaCarnï¿½vora(85)* !!!
 119 = LarvaHarrier(85)* !!!
 113 = Gagoil(68) TemploSintonia !!!
 
 Cota e Capa :
-Ataque 440 = Ruínas
-MP Rec 6.37 = Império
-       6.02 = Ev Gosma ou Túnel
+Ataque 440 = Ruï¿½nas
+MP Rec 6.37 = Impï¿½rio
+       6.02 = Ev Gosma ou Tï¿½nel
 Vital 151 = Fronteira
 
 Arma e Luva :
-Acc Crít 2.76 = Áton
+Acc Crï¿½t 2.76 = ï¿½ton
   	 2.70 = Berkas
-DanoCrít :
-Túnel Anões = Escavador(C) +22.62%
-Desfiladeiro Rá = Karte(E) 24.07%
-Império Astaroth = MestreFeiticeiro(E) 24.07%
+DanoCrï¿½t :
+Tï¿½nel Anï¿½es = Escavador(C) +22.62%
+Desfiladeiro Rï¿½ = Karte(E) 24.07%
+Impï¿½rio Astaroth = MestreFeiticeiro(E) 24.07%
 Fronteira Karuel = Daliah(E) 25.81%
 Berkas = Berkas(E) 26.39%
 
 Ataque :
 Torre Sombria = Wendy +35
-Calabouço Gorgos = Gorgos +75
+Calabouï¿½o Gorgos = Gorgos +75
 Cidade Abandonada = Paramini +100
-Ruínas Prata = Rainha +155
+Ruï¿½nas Prata = Rainha +155
 Ilha Selvagem = Mosquito +160
 Fortaleza Victor = Escudeiro +160
 Templo de Fogo = Monban +200
 Catacumbas Kastulle = Ciclope +280
-Fim Vermécia = Lorde Oak +280
+Fim Vermï¿½cia = Lorde Oak +280
 Templo Luz = Deus +320
 Altar Harmonia = Kenkro 310
 Templo Sintonia = Tempestado +350
-Vila Kungji = Xamã +360
+Vila Kungji = Xamï¿½ +360
 
 Capa e Sapato :
 Defesa 130 = Passagem
        127 = Base
 MP Rec 5.74 = Karuel
-Atq Esp 714 = Ev Gosma ou Pirâmide
+Atq Esp 714 = Ev Gosma ou Pirï¿½mide
         672 = Mjonir

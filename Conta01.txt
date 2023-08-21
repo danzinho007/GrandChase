@@ -1,0 +1,60 @@
+
+Conta : DanMorishima
+Berkas :
+
+Lire 301k = Full 
+Elesis 111k = Full
+Arme 123k = Falta : Elmo, Vestimenta, Calça, Sapato e Capa 
+Sieg 138k = Falta : E, V, C, S e Capa
+Mari 130k = Falta : E, V, C, S e Capa
+Decane 115k = Só Arma
+    Falta : E, V, C, L, S e Capa
+Lupus 118k = Só Arma
+    Falta : E, V, C, L, S e Capa
+Rey 117k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+Azin 113k = Só Arma, Luva e Máscara
+    Falta : E, V, C, S e Capa
+Dio 117k = Só Arma e Luva
+    Falta : E, V, C, S e Capa 
+Edel 108k = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios
+Veigas 104k = 
+    Falta : Tudo
+    Verifiquei Acessórios
+Ryan 101k = Só Arma, Luva e Máscara
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+Holy 99k = 
+    Falta : Tudo
+    Verifiquei Acessórios
+Lin 117k = Só Luva
+    Falta : Arma, E, V, C, S e Capa
+    Verifiquei Acessórios
+Lass 116k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 1° = 160/800
+    Ulti da 3° = OK
+Ronan 114k = Só Arma e Luva
+    Falta : E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 4° = OK
+Zero 112 = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios 
+    Ulti = OK
+Jin 11k = Só Arma
+    Falta : E, V, C, L, S e Capa
+    Verifiquei Acessórios 
+    Ulti da 3° = 96/800
+    Ulti da 4° = OK
+Amy 127k = Só Luva
+    Falta : Arma, E, V, C, S e Capa
+    Verifiquei Acessórios
+    Ulti da 1° = 240/800
+    Ulti da 4° = OK
+Ai 111k =- Full
+    Verifiquei Acessórios
+    Ulti = OK
