@@ -1,5 +1,30 @@
 Grand Chase Cartas :
 
+--Lire = Lendárias 
+--Elesis = Serdin ( Só as normais )
+1-Cogumelo = OK 
+Gosma = OK
+Goblin = OK
+Goblin Pedra = OK
+5-Harpia = OK
+Oak = OK
+Gon = OK
+Gorgon = OK
+...
+Caranguejo = OK
+Gosma = Azul = OK
+11-Gosma Vermelha = OK
+
+-Arme = Canaban
+Guerreiro Oak = 
+Oak Pedra = 
+Drillmon = 
+Gosma Verde = 
+Mago Negro = 
+Esqueleto = 
+Guerreiro Oak = 
+Paramini = 
+
 Floresta do Desafio = 1
 Torre Sombria = 2
 Arredores de Serdin = 3
