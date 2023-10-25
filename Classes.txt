@@ -1,0 +1,26 @@
+Classes :
+
+Lire : 12-34-56
+Caçadora = OK
+Guardiã = OK
+Nova = OK
+
+Elesis : !!! 78-910-1112
+Cavaleira = Teste +
+Gladiadora = Teste +
+Justiceira = OK
+
+Arme : 1314-1516-1718
+Alquimista = OK
+Feiticeira = OK
+Arquimaga = OK
+
+Lass : 1920-2122-2324
+Mercenário = OK
+Vingador = OK
+Retalhador = OK
+
+Ryan : !!! 2526-2728-2930
+Sentinela = Falta Teste
+Executor = OK
+Xamã = OK
